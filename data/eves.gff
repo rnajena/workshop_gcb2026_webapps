@@ -1,0 +1,25 @@
+##gff-version 3
+# GFF written by sugar v1.1.1-dev
+JAAGEH010000014.1	blastn	exon	12648020	12648961	1271.0	+	.	evalue=0.0;pident=91.198;length=943;mismatch=71;gapopen=4;qstart=1;qend=932;qlen=1480;sstart=12648020;send=12648961;sstrand=plus;slen=18692661;bat=ACI;contig=contig29;synteny=AMCR;Name=EVE;ID=JAAGEH010000014.1_exon/3
+JAAGEH010000014.1	blastn	exon	12648984	12649242	252.0	+	.	qstart=929;qend=1205;evalue=2.22e-62;pident=84.229;length=279;mismatch=22;gapopen=12;ID=JAAGEH010000014.1_exon/3
+CAUOHH010000436.1	blastn	exon	106922	107854	1410.0	+	.	evalue=0.0;pident=94.017;length=936;mismatch=46;gapopen=5;qstart=1;qend=929;qlen=1480;sstart=106922;send=107854;sstrand=plus;slen=1222686;bat=PAU;contig=contig435;synteny=AMCR;Name=EVE;ID=CAUOHH010000436.1_exon/3
+CAUOHH010000436.1	blastn	exon	107890	108148	292.0	+	.	qstart=934;qend=1213;evalue=1.31e-74;pident=86.786;length=280;mismatch=16;gapopen=6;ID=CAUOHH010000436.1_exon/3
+JAJQQW010000006.1	blastn	exon	73804373	73805297	1363.0	+	.	evalue=0.0;pident=93.262;length=935;mismatch=47;gapopen=6;qstart=1;qend=929;qlen=1480;sstart=73804373;send=73805297;sstrand=plus;slen=110716246;bat=IIO;contig=contig20;synteny=AMCR;Name=EVE;ID=JAJQQW010000006.1_exon/3
+JAJQQW010000006.1	blastn	exon	73805333	73805589	279.0	+	.	qstart=934;qend=1213;evalue=1.02e-70;pident=86.071;length=280;mismatch=16;gapopen=7;ID=JAJQQW010000006.1_exon/3
+NC_072478.1	blastn	exon	36387405	36388330	1386.0	-	.	evalue=0.0;pident=93.683;length=934;mismatch=45;gapopen=4;qstart=1;qend=928;qlen=1480;sstart=36387368;send=36387112;sstrand=minus;slen=108689991;bat=EFU;contig=chr6;synteny=AMCR;Name=EVE;ID=NC_072478.1_exon
+NC_072478.1	blastn	exon	36387112	36387368	1386.0	-	.	ID=NC_072478.1_exon
+NW_023425584.1	blastn	exon	64293572	64294484	1282.0	+	.	evalue=0.0;pident=92.048;length=918;mismatch=64;gapopen=7;qstart=1;qend=914;qlen=1480;sstart=64293572;send=64294484;sstrand=plus;slen=70722709;bat=PKU;contig=sca180;synteny=AMCR;Name=EVE;ID=NW_023425584.1_exon/2
+NW_023425584.1	blastn	exon	64294778	64295056	383.0	+	.	qstart=934;qend=1213;evalue=7.54e-102;pident=91.429;length=280;mismatch=23;gapopen=1;ID=NW_023425584.1_exon/2
+LR862361.1	blastn	exon	31459976	31460885	1275.0	-	.	evalue=0.0;pident=91.93;length=917;mismatch=64;gapopen=8;qstart=1;qend=914;qlen=1480;sstart=31459680;send=31459405;sstrand=minus;slen=94929986;bat=PIP;contig=contig4;synteny=AMCR;Name=EVE;ID=LR862361.1_exon
+LR862361.1	blastn	exon	31459405	31459680	1275.0	-	.	ID=LR862361.1_exon
+NW_005370908.1	blastn	exon	1501243	1501935	1166.0	-	.	evalue=0.0;pident=97.114;length=693;mismatch=16;gapopen=2;qstart=4;qend=692;qlen=1480;sstart=1500964;send=1500768;sstrand=minus;slen=2530740;bat=MBR;contig=contig168479;synteny=AMCR;Name=EVE;ID=NW_005370908.1_exon
+NW_005370908.1	blastn	exon	1500768	1500964	1166.0	-	.	ID=NW_005370908.1_exon
+SSHV01005227.1	blastn	exon	294818	294865	73.1	+	.	evalue=1.85e-08;pident=93.75;length=48;mismatch=3;gapopen=0;qstart=72;qend=119;qlen=1480;sstart=294818;send=294865;sstrand=plus;slen=378042;bat=CBR;contig=sca5226;synteny=AMCR;Name=EVE;ID=SSHV01005227.1_exon/2
+NW_024346667.1	blastn	exon	14307432	14307488	71.3	-	.	evalue=6.66e-08;pident=89.474;length=57;mismatch=5;gapopen=1;qstart=72;qend=127;qlen=1480;sstart=14307488;send=14307432;sstrand=minus;slen=28440232;bat=PGI;contig=sca6276;synteny=AMCR;Name=EVE;ID=NW_024346667.1_exon
+CM053237.1	blastn	exon	29465473	29465529	71.3	+	.	evalue=6.66e-08;pident=89.474;length=57;mismatch=5;gapopen=1;qstart=72;qend=127;qlen=1480;sstart=29465473;send=29465529;sstrand=plus;slen=55311964;bat=PRU;contig=chr15;synteny=AMCR;Name=EVE;ID=CM053237.1_exon/2
+CAUOHH010001280.1	blastn	exon	299997	300274	185.0	-	.	evalue=2.28e-42;pident=79.152;length=283;mismatch=47;gapopen=4;qstart=934;qend=1209;qlen=1480;sstart=300274;send=299997;sstrand=minus;slen=1151182;bat=PAU;contig=contig1279;synteny=EBLL-IG;Name=EVE;ID=CAUOHH010001280.1_exon
+NW_023425460.1	blastn	exon	5123294	5123714	472.0	+	.	evalue=8.55e-129;pident=86.916;length=428;mismatch=46;gapopen=5;qstart=399;qend=823;qlen=824;sstart=5123294;send=5123714;sstrand=plus;slen=47319511;bat=PKU;contig=sca56;synteny=EBLL-IG;Name=EVE;ID=NW_023425460.1_exon
+NC_081852.1	blastn	exon	16169651	16170204	436.0	+	.	evalue=5.7e-118;pident=81.528;length=563;mismatch=75;gapopen=16;qstart=119;qend=661;qlen=1480;sstart=16169651;send=16170204;sstrand=plus;slen=64611165;bat=MDA;contig=chr13;synteny=EBLL-IG;Name=EVE;ID=NC_081852.1_exon
+NC_081852.1	blastn	exon	16170265	16170474	196.0	+	.	qstart=934;qend=1140;evalue=1.05e-45;pident=84.038;length=213;mismatch=25;gapopen=5;ID=NC_081852.1_exon
+NW_023416319.1	blastn	exon	47128899	47129436	477.0	-	.	evalue=3.36e-130;pident=83.181;length=547;mismatch=67;gapopen=13;qstart=131;qend=661;qlen=1480;sstart=47128838;send=47128606;sstrand=minus;slen=53400106;bat=MMY;contig=sca6;synteny=EBLL-IG;Name=EVE;ID=NW_023416319.1_exon
+NW_023416319.1	blastn	exon	47128606	47128838	477.0	-	.	ID=NW_023416319.1_exon

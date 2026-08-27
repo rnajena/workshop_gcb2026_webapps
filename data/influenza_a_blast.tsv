@@ -1,0 +1,11 @@
+type	seqid	name	start	stop	strand	mismatch
+primer	LC817404.1	primer_virus_query_virus_10	10	20	+	0
+primer	LC817404.1	primer_virus_query_virus_10	989	998	+	1
+primer	LC817404.1	primer_virus_query_virus_10	118	126	+	2
+primer	LC817404.1	primer_virus_query_virus_10	569	578	+	2
+primer	LC817404.1	primer_virus_query_virus_10	2253	2262	+	2
+primer	LC817405.1	primer_virus_query_virus_10	1494	1502	-	2
+primer	LC817405.1	primer_virus_query_virus_10	1294	1303	+	2
+primer	LC817405.1	primer_virus_query_virus_10	1447	1456	+	2
+primer	LC817411.1	primer_virus_query_virus_10	822	831	+	2
+primer	LC817407.1	primer_virus_query_virus_10	1238	1247	+	2
