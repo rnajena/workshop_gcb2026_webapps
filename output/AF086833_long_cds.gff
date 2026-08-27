@@ -1,0 +1,8 @@
+##gff-version 3
+# GFF written by sugar v1.1.1-dev
+AF086833	.	CDS	470	2689	.	+	.	.
+AF086833	.	CDS	3129	4151	.	+	.	.
+AF086833	.	CDS	6039	6923	.	+	.	ID=kpokmtbtam
+AF086833	.	CDS	6923	8068	.	+	.	ID=kpokmtbtam
+AF086833	.	CDS	6039	7133	.	+	.	.
+AF086833	.	CDS	11581	18219	.	+	.	.
