@@ -1,0 +1,19 @@
+##gff-version 3
+# GFF written by sugar v1.1.1-dev
+AE006468.2	.	.	933241	933300	24.6	-	.	Name=q_hokA;evalue=0.45
+AE006468.2	.	.	1196028	1196069	21.9	+	.	Name=q_hokA;evalue=4.4
+AE006468.2	.	.	138595	138642	22.3	-	.	Name=q_hokB;evalue=3.1
+AE006468.2	.	.	2237451	2237498	21.2	+	.	Name=q_hokB;evalue=7.7
+AE006468.2	.	.	3825609	3825656	20.8	+	.	Name=q_hokB;evalue=9.0
+AE006468.2	.	.	4456064	4456105	20.8	+	.	Name=q_hokB;evalue=9.4
+AE006468.2	.	.	2757569	2757676	22.3	-	.	Name=q_hokC;evalue=2.8
+AE006468.2	.	.	851299	851436	21.2	+	.	Name=q_hokC;evalue=7.0
+AE006468.2	.	.	1666909	1667025	23.1	+	.	Name=q_hokD;evalue=1.9
+AE006468.2	.	.	3979088	3979147	21.9	+	.	Name=q_hokD;evalue=4.9
+NC_000913.3	.	.	3720451	3720600	104.0	-	.	Name=q_hokA;evalue=3.34e-28
+NC_000913.3	.	.	607836	607985	43.0	+	.	Name=q_hokA;evalue=4.774e-07
+NC_000913.3	.	.	1491925	1492071	100.0	-	.	Name=q_hokB;evalue=7.572e-27
+NC_000913.3	.	.	16754	16903	96.0	-	.	Name=q_hokC;evalue=1.388e-25
+NC_000913.3	.	.	1645125	1645274	82.0	-	.	Name=q_hokC;evalue=9.346e-21
+NC_000913.3	.	.	1645122	1645274	96.0	-	.	Name=q_hokD;evalue=2.009e-25
+NC_000913.3	.	.	16754	16903	81.0	-	.	Name=q_hokD;evalue=2.554e-20

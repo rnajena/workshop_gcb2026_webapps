@@ -1,0 +1,8 @@
+##gff-version 3
+# GFF written by sugar v1.1.1-dev
+AF086833	.	source	1	18959	.	+	.	.
+AF086833	.	5'UTR	1	55	.	+	.	.
+AF086833	.	gene	56	3026	.	+	.	.
+AF086833	.	mRNA	56	3026	.	+	.	.
+AF086833	.	regulatory	56	67	.	+	.	.
+AF086833	.	CDS	470	2689	.	+	.	.
