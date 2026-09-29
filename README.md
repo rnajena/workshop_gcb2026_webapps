@@ -51,8 +51,11 @@ conda activate gcb_webapps
 
 ### How to
 
-Study the slides, work in the `data` and `wd` directories.
+Study the slides.
+Try out the code snippets from the tutorial in an interactive IPython session inside the `data` folder.
+Solve the tasks by creating your scripts in the `wd` folder.
+The Sugar and NiceGUI code examples are located in this folder and can be used as a basis for your solutions.
 
-### Code examples
+### Code solutions
 
-Code examples will be provided after the workshop in the `code` folder.
+For code solutions or guidance, please contact [Tom](https://github.com/trichter).
