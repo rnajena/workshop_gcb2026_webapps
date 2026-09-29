@@ -59,3 +59,6 @@ The Sugar and NiceGUI code examples are located in this folder and can be used a
 ### Code solutions
 
 For code solutions or guidance, please contact [Tom](https://github.com/trichter).
+
+Solutions for the tasks are located in the `code` folder.
+Output files from the tutorial are located in the `output` folder.
